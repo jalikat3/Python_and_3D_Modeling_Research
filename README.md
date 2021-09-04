@@ -7,3 +7,4 @@ Project 3: pytrendsPractice- purpose: create a csv from input words, compare the
 Project 4: Blender- learning from tutorials, attempting to make a duck for 3D printing
 Project 5: sendToSpace- practiced making a Blender model from a picture reference, then importing to Unity, and making a few commands on the object
 Project 6: tkinterPractice- following Youtube tutorials to learn tkinter as suggested by Breanna and Dr. Ullmer https://www.youtube.com/watch?v=yQSEXcf6s2I&list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV
+Project 7: Reading Research Papers- reading paper's given, and relating to my personal concerns over carbon emissions and energy usage, and applications of pyrends https://drive.google.com/drive/folders/1ItxFRcRXkoJjQkBu0_M2xN5N_ZTIryX8?usp=sharing
